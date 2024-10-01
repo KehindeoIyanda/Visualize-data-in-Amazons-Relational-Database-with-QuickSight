@@ -1,2 +1,2 @@
 # Visualize-data-in-Amazons-Relational-Database-with-QuickSight
-![](Assets/-028.png)
+![](Assets/Visualize%20a%20Relational%20Database.drawio.png)
