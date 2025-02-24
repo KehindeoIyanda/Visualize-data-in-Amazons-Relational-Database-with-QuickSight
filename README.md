@@ -52,7 +52,7 @@ Now that we've got our MySQL Workbench connected with our RDS instance, we can a
   ![](Assets/-015.png)
   ![](Assets/-016.png)
 
-- Update role the IAM Role by Clicking into the aws-quicksight-service-role-v0
+- Update the IAM Role by Clicking into the aws-quicksight-service-role-v0
 ```
 {
   "Version": "2012-10-17",
